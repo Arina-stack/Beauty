@@ -39,6 +39,8 @@ margin-right:10px;
     color: #F13C6E;
     font-size: 36px;
     font-weight: 700;
+    display: flex;
+    align-items: center;
 }
 .header-info span{
     font-size: 16px;
